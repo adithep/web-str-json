@@ -1,42 +1,99 @@
 [
   {
-    "_spa": "form_input",
-    "_spa_tem": "_def",
+    "_spa": "main_nav",
+    "_spa_tem": "main_nav",
     "_spa_gr": [
-      "input_form_n_gr"
+      "path_btn_gr"
     ]
   },
 
   {
-    "_spa": "human_btn_spa",
-    "_spa_tem": "button_list",
+    "_spa": "main_intro",
+    "_spa_tem": "main_intro",
     "_spa_gr": [
-      "human_form_gr"
+      "secondary_path_link"
     ]
   },
 
   {
-    "_spa": "companies_btn_spa",
-    "_spa_tem": "button_list",
+    "_spa": "reels",
+    "_spa_tem": "reels",
     "_spa_gr": [
-      "company_form_gr"
+      "reels_gr"
     ]
   },
 
   {
-    "_spa": "humans_input_spa",
-    "_spa_tem": "insert_form",
+    "_spa": "footer",
+    "_spa_tem": "footer",
     "_spa_gr": [
-      "input_title_n_gr",
-      "input_first_n_gr"
+      "company_about",
+      "subscription_form"
     ]
   },
 
   {
-    "_spa": "companies_input_spa",
-    "_spa_tem": "insert_form",
+    "_spa": "img_gr_btn_gr",
+    "_spa_tem": "btn_gr",
     "_spa_gr": [
-      "input_company_n_gr"
+      "img_gr_btn_gr"
+    ]
+  },
+
+  {
+    "_spa": "img_spa",
+    "_spa_tem": "img_spa",
+    "_spa_gr": [
+      "img_spa"
+    ]
+  },
+
+  {
+    "_spa": "img_gr_behind_the_scene",
+    "_spa_tem": "img_gr",
+    "_spa_gr": [
+      "img_gr_behind_the_scene"
+    ]
+  },
+
+  {
+    "_spa": "img_gr_locations",
+    "_spa_tem": "img_gr",
+    "_spa_gr": [
+      "img_gr_locations"
+    ]
+  },
+
+  {
+    "_spa": "img_gr_locations",
+    "_spa_tem": "img_gr",
+    "_spa_gr": [
+      "img_gr_locations"
+    ]
+  },
+
+  {
+    "_spa": "our_team",
+    "_spa_tem": "humans_with_img",
+    "_spa_gr": [
+      "humans_team_gr"
+    ]
+  },
+
+  {
+    "_spa": "our_approach",
+    "_spa_tem": "our_approach",
+    "_spa_gr": [
+      "approach_gr"
+    ]
+  },
+
+  {
+    "_spa": "contact_us",
+    "_spa_tem": "contact_us",
+    "_spa_gr": [
+      "company_about",
+      "contact_form"
     ]
   }
 ]

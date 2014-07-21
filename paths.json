@@ -1,27 +1,45 @@
 [
   {
-    "path_n": "forms",
-    "path_tem": "_def",
-    "path_gr": [
-      "form_input"
+    "path_n": "blank",
+    "path_spa": [
+      "main_nav",
+      "main_intro",
+      "sub_path",
+      "footer"
     ]
   },
 
   {
-    "path_n": "humans_form",
-    "path_tem": "_def",
-    "path_gr": [
-      "human_btn_spa",
-      "humans_input_spa"
+    "path_n": "home",
+    "path_spa": [
+      "reels",
+      "humans_input_spa",
+      "sub_path"
     ]
   },
 
   {
-    "path_n": "companies_form",
-    "path_tem": "_def",
-    "path_gr": [
-      "companies_btn_spa",
-      "companies_input_spa"
+    "path_n": "about",
+    "path_spa": [
+      "our_team",
+      "our_approach",
+      "sub_path"
+    ]
+  },
+
+  {
+    "path_n": "experiences",
+    "path_spa": [
+      "img_gr_btn_gr",
+      "sub_path"
+    ]
+  },
+
+  {
+    "path_n": "contact",
+    "path_spa": [
+      "contact_us",
+      "sub_path"
     ]
   }
 ]
