@@ -1,0 +1,12 @@
+{
+  "_s": ["main"],
+  "keys": ["main"],
+  "paths": ["main"],
+  "_spa": ["main"],
+  "_img": ["main"],
+  "_img_tags": ["main"],
+  "humans": ["core_team"],
+  "companies": ["new_company"],
+  "_tri": ["_tri", "_tri_input", "_tri_btn", "_tri_banners", "_tri_media"]
+
+}
