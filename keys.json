@@ -302,6 +302,22 @@
   },
 
   {
+    "key_n": "img_uuid",
+    "key_ty": "r_st",
+    "key_s": "img",
+    "key_key": "img_uuid",
+    "key_dis": "Image UUID"
+  },
+
+  {
+    "key_n": "img_link",
+    "key_ty": "r_st",
+    "key_s": "img",
+    "key_key": "img_link",
+    "key_dis": "Image Link"
+  },
+
+  {
     "key_n": "_eid",
     "key_ty": "oid",
     "key_dis": "ID"

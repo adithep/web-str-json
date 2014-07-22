@@ -1,0 +1,40 @@
+[
+  {
+    "_tri_n": "reels_gr",
+    "_tri_grs": {
+      "reels_gr": {
+        "sort": 0
+      }
+    },
+    "_tri_media_dis": "vdos",
+    "_tri_ty": "video_gr",
+    "_tri_available": "all",
+    "on_click": "modal"
+  },
+
+  {
+    "_tri_n": "img_gr_locations",
+    "_tri_grs": {
+      "img_gr_locations": {
+        "sort": 0
+      }
+    },
+    "_tri_media_dis": "locations_img",
+    "_tri_ty": "img_gr",
+    "_tri_available": "all",
+    "on_drag": "change_local_sort"
+  },
+
+  {
+    "_tri_n": "img_gr_behind_the_scene",
+    "_tri_grs": {
+      "img_gr_behind_the_scene": {
+        "sort": 0
+      }
+    },
+    "_tri_media_dis": "behind_the_scene_img",
+    "_tri_ty": "img_gr",
+    "_tri_available": "all",
+    "on_drag": "change_local_sort"
+  }
+]

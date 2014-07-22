@@ -1,0 +1,14 @@
+[
+  {
+    "_tri_n": "banner_home_path",
+    "_tri_grs": {
+      "secondary_path_link": {
+        "sort": 0
+      }
+    },
+    "_tri_session_dis": "secondary",
+    "_tri_ty": "banner",
+    "_tri_available": "all",
+    "on_click": "sub_path_home"
+  }
+]

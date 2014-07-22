@@ -3,7 +3,7 @@
   {
     "_s_n_for": "_s",
     "_s_n": "_s",
-    "json": "_s/_s.json",
+    "json": "web-str-json/_s.json",
     "_s_keys": [
       "_s_n_for",
       "_s_n",
@@ -17,7 +17,7 @@
   {
     "_s_n_for": "keys",
     "_s_n": "_s",
-    "json": "_s/keys.json",
+    "json": "web-str-json/keys.json",
     "_s_keys": [
       "key_n",
       "key_ty",
@@ -32,7 +32,7 @@
   {
     "_s_n_for": "paths",
     "_s_n": "_s",
-    "json": "_s_json/paths.json",
+    "json": "web-str-json/paths.json",
     "_s_keys": [
       "path_n",
       "path_tem",
@@ -45,7 +45,7 @@
   {
     "_s_n_for": "_spa",
     "_s_n": "_s",
-    "json": "json/_spa.json",
+    "json": "web-str-json/_spa.json",
     "_s_keys": [
       "_spa",
       "_spa_tem",
@@ -66,15 +66,15 @@
       "_usr"
     ]
   },
-  
+
   {
     "_s_n_for": "_tri",
     "_s_n": "_s",
     "json": [
-      "_s_json/_tri_btn.json",
-      "_s_json/_tri_input.json",
-      "_s_json/_tri.json",
-      "_s_json/master_tri.json"
+      "web-str-json/_tri_btn.json",
+      "web-str-json/_tri_input.json",
+      "web-str-json/_tri.json",
+      "web-str-json/master_tri.json"
     ],
     "_s_keys": [
       "_tri_n",
@@ -94,6 +94,69 @@
       "_dt",
       "_usr"
     ]
+  },
+
+  {
+    "_s_n_for": "img",
+    "_s_n": "_s",
+    "json": "alpha-entity-json/img.json",
+    "_s_keys": [
+      "img_uuid",
+      "img_link",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "img_tags",
+    "_s_n": "_s",
+    "json": "alpha-entity-json/img_tags.json",
+    "_s_keys": [
+      "key_n",
+      "key_s",
+      "_v",
+      "img_uuid",
+      "img_link",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "humans",
+    "_s_n": "_s",
+    "json": "alpha-entity-json/core_team.json",
+    "_s_keys": [
+      "title_n",
+      "first_n",
+      "middle_n",
+      "last_n",
+      "_dt_of_birth",
+      "email_ad",
+      "mobile_num",
+      "city_n",
+      "country_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "companies",
+    "_s_n": "_s",
+    "json": "alpha-entity-json/new_company.json",
+    "_s_keys": [
+      "company_n",
+      "_dt_registered",
+      "email_ad",
+      "mobile_num",
+      "city_n",
+      "country_n",
+      "_dt",
+      "_usr"
+    ]
   }
+
 
 ]

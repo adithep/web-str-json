@@ -11,6 +11,7 @@
 
   {
     "path_n": "home",
+    "path_dis": "Home",
     "path_spa": [
       "reels",
       "humans_input_spa",
@@ -20,6 +21,7 @@
 
   {
     "path_n": "about",
+    "path_dis": "About",
     "path_spa": [
       "our_team",
       "our_approach",
@@ -29,6 +31,7 @@
 
   {
     "path_n": "experiences",
+    "path_dis": "Experiences",
     "path_spa": [
       "img_gr_btn_gr",
       "sub_path"
@@ -37,6 +40,7 @@
 
   {
     "path_n": "contact",
+    "path_dis": "Contact",
     "path_spa": [
       "contact_us",
       "sub_path"
