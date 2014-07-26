@@ -6,7 +6,8 @@
         "sort": 0
       }
     },
-    "_tri_session_dis": "secondary",
+    "_tri_dis_ty": "current_path",
+    "_tri_dis": "current_path",
     "_tri_ty": "banner",
     "_tri_available": "all",
     "on_click": "sub_path_home"

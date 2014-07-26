@@ -6,35 +6,101 @@
         "sort": 0
       }
     },
-    "_tri_media_dis": "vdos",
+    "_tri_dis_ty": "vdo_qry",
+    "_tri_dis": "vdos",
     "_tri_ty": "video_gr",
     "_tri_available": "all",
     "on_click": "modal"
   },
 
   {
-    "_tri_n": "img_gr_locations",
+    "_tri_n": "img_gr_location_ty_condo",
     "_tri_grs": {
-      "img_gr_locations": {
+      "img_gr_location_ty_condo": {
         "sort": 0
       }
     },
-    "_tri_media_dis": "locations_img",
+    "_tri_dis_ty": "img_qry",
+    "_tri_dis": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Condo",
+      "location_id_arr": {
+        "$in": ["ELwKPCaJARdyYFkzq", "FuvWq2sGea3bxSeQM"]
+      }
+    },
     "_tri_ty": "img_gr",
     "_tri_available": "all",
     "on_drag": "change_local_sort"
   },
 
   {
-    "_tri_n": "img_gr_location_ty_condo",
+    "_tri_n": "img_gr_location_ty_restaruant",
     "_tri_grs": {
-      "img_gr_locations": {
+      "img_gr_location_ty_restaruant": {
         "sort": 0
       }
     },
-    "_tri_qry": {
+    "_tri_dis_ty": "img_qry",
+    "_tri_dis": {
       "_s_n": "img",
-      "location_ty_n": "Condo"
+      "location_ty_n_arr": "Restaruant",
+      "location_id_arr": {
+        "$in": [
+          "EmCxofXsebsXQHJLY",
+          "vFD4jn97ez4Em7Tr4",
+          "5QSJaYoCNCarWrc7y",
+          "KMSLHowfDHZqNtGe7",
+          "NpTRr8hX5ueask3mW"
+        ]
+      }
+    },
+    "_tri_ty": "img_gr",
+    "_tri_available": "all",
+    "on_drag": "change_local_sort"
+  },
+
+  {
+    "_tri_n": "img_gr_location_ty_office",
+    "_tri_grs": {
+      "img_gr_location_ty_office": {
+        "sort": 0
+      }
+    },
+    "_tri_dis_ty": "img_qry",
+    "_tri_dis": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Office",
+      "location_id_arr": {
+        "$in": [
+          "FGADmqtBKdT5Amxyk",
+          "jucfEpoga6MgdW2vT",
+          "jdi37ZrXd6z9FDziX"
+        ]
+      }
+    },
+    "_tri_ty": "img_gr",
+    "_tri_available": "all",
+    "on_drag": "change_local_sort"
+  },
+
+  {
+    "_tri_n": "img_gr_location_ty_mall",
+    "_tri_grs": {
+      "img_gr_location_ty_mall": {
+        "sort": 0
+      }
+    },
+    "_tri_dis_ty": "img_qry",
+    "_tri_dis": {
+      "_s_n": "img",
+      "location_ty_n_arr": "Mall",
+      "location_id_arr": {
+        "$in": [
+          "D6D4RiZQZ7nQFqS27",
+          "t6WFM8CCgGiD3TC5L",
+          "oWZuGMmvMQttrMT2a"
+        ]
+      }
     },
     "_tri_ty": "img_gr",
     "_tri_available": "all",
@@ -48,9 +114,70 @@
         "sort": 0
       }
     },
-    "_tri_media_dis": "behind_the_scene_img",
+    "_tri_dis_ty": "img_qry",
+    "_tri_dis": {
+      "_s_n": "img",
+      "project_id_arr": {
+        "$in": [
+          "to_be_filled"
+        ]
+      },
+      "img_ty_arr": {
+        "$in": [
+          "to_be_filled"
+        ]
+      }
+    },
     "_tri_ty": "img_gr",
     "_tri_available": "all",
     "on_drag": "change_local_sort"
+  },
+
+  {
+    "_tri_n": "img_gr_art_director",
+    "_tri_grs": {
+      "art_director_info_gr": {
+        "sort": 0
+      }
+    },
+    "_tri_dis_ty": "img_qry",
+    "_tri_dis": {
+      "_s_n": "img",
+      "human_id_arr": "to_be_filled",
+    },
+    "_tri_ty": "img_gr",
+    "_tri_available": "all"
+  },
+
+  {
+    "_tri_n": "img_gr_location_manager",
+    "_tri_grs": {
+      "location_manager_info_gr": {
+        "sort": 0
+      }
+    },
+    "_tri_dis_ty": "img_qry",
+    "_tri_dis": {
+      "_s_n": "img",
+      "human_id_arr": "to_be_filled",
+    },
+    "_tri_ty": "img_gr",
+    "_tri_available": "all"
+  },
+
+  {
+    "_tri_n": "img_gr_casting_director",
+    "_tri_grs": {
+      "img_gr_casting_director": {
+        "sort": 0
+      }
+    },
+    "_tri_dis_ty": "img_qry",
+    "_tri_dis": {
+      "_s_n": "img",
+      "human_id_arr": "to_be_filled",
+    },
+    "_tri_ty": "img_gr",
+    "_tri_available": "all"
   }
 ]

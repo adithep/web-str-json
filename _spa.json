@@ -34,33 +34,57 @@
 
   {
     "_spa": "img_gr_btn_gr",
-    "_spa_tem": "btn_gr",
+    "_spa_tem": "_btn_gr",
     "_spa_gr": [
       "img_gr_btn_gr"
     ]
   },
 
   {
-    "_spa": "img_spa",
-    "_spa_tem": "img_spa",
+    "_spa": "img_gr_ty_behind_the_scene",
+    "_spa_tem": "img_gr",
     "_spa_gr": [
-      "img_spa"
+      "img_gr_ty_behind_the_scene"
     ]
   },
 
   {
-    "_spa": "img_gr_behind_the_scene",
-    "_spa_tem": "img_gr",
+    "_spa": "img_location_gr_btn_gr",
+    "_spa_tem": "_btn_gr",
     "_spa_gr": [
-      "img_gr_behind_the_scene"
+      "img_location_gr_btn_gr"
     ]
   },
 
   {
-    "_spa": "img_gr_locations",
+    "_spa": "img_gr_location_ty_restaruant",
     "_spa_tem": "img_gr",
     "_spa_gr": [
-      "img_gr_locations"
+      "img_gr_location_ty_restaruant"
+    ]
+  },
+
+  {
+    "_spa": "img_gr_location_ty_office",
+    "_spa_tem": "img_gr",
+    "_spa_gr": [
+      "img_gr_location_ty_office"
+    ]
+  },
+
+  {
+    "_spa": "img_gr_location_ty_mall",
+    "_spa_tem": "img_gr",
+    "_spa_gr": [
+      "img_gr_location_ty_mall"
+    ]
+  },
+
+  {
+    "_spa": "img_gr_location_ty_condo",
+    "_spa_tem": "img_gr",
+    "_spa_gr": [
+      "img_gr_location_ty_condo"
     ]
   },
 
@@ -68,7 +92,9 @@
     "_spa": "our_team",
     "_spa_tem": "humans_with_img",
     "_spa_gr": [
-      "humans_team_gr"
+      "location_manager_info_gr",
+      "casting_director_info_gr",
+      "art_director_info_gr"
     ]
   },
 
@@ -85,7 +111,7 @@
     "_spa_tem": "contact_us",
     "_spa_gr": [
       "company_about",
-      "contact_form"
+      "subscription_form"
     ]
   }
 ]

@@ -1,0 +1,115 @@
+[
+  {
+    "_tri_n": "_s_company_about",
+    "_tri_grs": {
+      "company_about": {
+        "sort": 0
+      }
+    },
+    "_tri_s_n": "companies",
+    "_tri_dis_ty": "_qry",
+    "_tri_dis_keys": ["company_n", "email.main_arr", "city_n", "country_n"],
+    "_tri_dis": {
+      "_s_n": "companies",
+      "_id": "kbq2Wtg6PabRrPzob"
+    },
+    "_tri_ty": "_s_doc",
+    "_tri_available": "all"
+  },
+
+  {
+    "_tri_n": "location_manager_info",
+    "_tri_grs": {
+      "location_manager_info_gr": {
+        "sort": 1
+      }
+    },
+    "_tri_s_n": "humans",
+    "_tri_dis_ty": "_qry",
+    "_tri_dis_keys": [
+      "human_n.title",
+      "human_n.first",
+      "human_n.middle",
+      "human_n.last",
+      "email.main_arr",
+      "mobile.main_arr"
+    ],
+    "_tri_dis": {
+      "_s_n": "humans",
+      "_id": "to_be_filled"
+    },
+    "_tri_ty": "_s_doc",
+    "_tri_available": "all"
+  },
+
+  {
+    "_tri_n": "casting_director_info",
+    "_tri_grs": {
+      "casting_director_info_gr": {
+        "sort": 1
+      }
+    },
+    "_tri_s_n": "humans",
+    "_tri_dis_ty": "_qry",
+    "_tri_dis_keys": [
+      "human_n.title",
+      "human_n.first",
+      "human_n.middle",
+      "human_n.last",
+      "email.main_arr",
+      "mobile.main_arr"
+    ],
+    "_tri_dis": {
+      "_s_n": "humans",
+      "_id": "to_be_filled"
+    },
+    "_tri_ty": "_s_doc",
+    "_tri_available": "all"
+  },
+
+  {
+    "_tri_n": "art_director_info",
+    "_tri_grs": {
+      "art_director_info_gr": {
+        "sort": 1
+      }
+    },
+    "_tri_s_n": "humans",
+    "_tri_dis_ty": "_qry",
+    "_tri_dis_keys": [
+      "human_n.title",
+      "human_n.first",
+      "human_n.middle",
+      "human_n.last",
+      "email.main_arr",
+      "mobile.main_arr"
+    ],
+    "_tri_dis": {
+      "_s_n": "humans",
+      "_id": "to_be_filled"
+    },
+    "_tri_ty": "_s_doc",
+    "_tri_available": "all"
+  },
+
+  {
+    "_tri_n": "approach_gr",
+    "_tri_grs": {
+      "approach_gr": {
+        "sort": 0
+      }
+    },
+    "_tri_s_n": "approaches",
+    "_tri_dis_ty": "_qry",
+    "_tri_dis_keys": [
+      "approach_n",
+      "approach_description",
+      "img_uuid"
+    ],
+    "_tri_dis": {
+      "_s_n": "approaches"
+    },
+    "_tri_ty": "_s_doc",
+    "_tri_available": "all"
+  }
+]

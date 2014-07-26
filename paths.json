@@ -39,6 +39,60 @@
   },
 
   {
+    "path_n": "img_behind_the_scene",
+    "path_dis": "Behind the Scenes",
+    "path_spa": [
+      "img_gr_ty_behind_the_scene",
+      "sub_path"
+    ]
+  },
+
+  {
+    "path_n": "img_location",
+    "path_dis": "Locations",
+    "path_spa": [
+      "img_location_gr_btn_gr",
+      "sub_path"
+    ]
+  },
+
+  {
+    "path_n": "img_location_condo",
+    "path_dis": "Condo",
+    "path_spa": [
+      "img_gr_location_ty_condo",
+      "sub_path"
+    ]
+  },
+
+  {
+    "path_n": "img_location_restaruant",
+    "path_dis": "Condo",
+    "path_spa": [
+      "img_gr_location_ty_restaruant",
+      "sub_path"
+    ]
+  },
+
+  {
+    "path_n": "img_location_office",
+    "path_dis": "Condo",
+    "path_spa": [
+      "img_gr_location_ty_office",
+      "sub_path"
+    ]
+  },
+
+  {
+    "path_n": "img_location_mall",
+    "path_dis": "Condo",
+    "path_spa": [
+      "img_gr_location_ty_mall",
+      "sub_path"
+    ]
+  },
+
+  {
     "path_n": "contact",
     "path_dis": "Contact",
     "path_spa": [
