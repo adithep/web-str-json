@@ -25,7 +25,7 @@
       "_s_n": "img",
       "location_ty_n_arr": "Condo",
       "location_id_arr": {
-        "$in": ["ELwKPCaJARdyYFkzq", "FuvWq2sGea3bxSeQM"]
+        "_$in": ["ELwKPCaJARdyYFkzq", "FuvWq2sGea3bxSeQM"]
       }
     },
     "_tri_ty": "img_gr",
@@ -45,7 +45,7 @@
       "_s_n": "img",
       "location_ty_n_arr": "Restaruant",
       "location_id_arr": {
-        "$in": [
+        "_$in": [
           "EmCxofXsebsXQHJLY",
           "vFD4jn97ez4Em7Tr4",
           "5QSJaYoCNCarWrc7y",
@@ -71,7 +71,7 @@
       "_s_n": "img",
       "location_ty_n_arr": "Office",
       "location_id_arr": {
-        "$in": [
+        "_$in": [
           "FGADmqtBKdT5Amxyk",
           "jucfEpoga6MgdW2vT",
           "jdi37ZrXd6z9FDziX"
@@ -95,7 +95,7 @@
       "_s_n": "img",
       "location_ty_n_arr": "Mall",
       "location_id_arr": {
-        "$in": [
+        "_$in": [
           "D6D4RiZQZ7nQFqS27",
           "t6WFM8CCgGiD3TC5L",
           "oWZuGMmvMQttrMT2a"
@@ -118,12 +118,12 @@
     "_tri_dis": {
       "_s_n": "img",
       "project_id_arr": {
-        "$in": [
+        "_$in": [
           "to_be_filled"
         ]
       },
       "img_ty_arr": {
-        "$in": [
+        "_$in": [
           "to_be_filled"
         ]
       }
@@ -143,7 +143,7 @@
     "_tri_dis_ty": "img_qry",
     "_tri_dis": {
       "_s_n": "img",
-      "human_id_arr": "to_be_filled",
+      "human_id_arr": "to_be_filled"
     },
     "_tri_ty": "img_gr",
     "_tri_available": "all"
@@ -159,7 +159,7 @@
     "_tri_dis_ty": "img_qry",
     "_tri_dis": {
       "_s_n": "img",
-      "human_id_arr": "to_be_filled",
+      "human_id_arr": "to_be_filled"
     },
     "_tri_ty": "img_gr",
     "_tri_available": "all"
@@ -175,7 +175,7 @@
     "_tri_dis_ty": "img_qry",
     "_tri_dis": {
       "_s_n": "img",
-      "human_id_arr": "to_be_filled",
+      "human_id_arr": "to_be_filled"
     },
     "_tri_ty": "img_gr",
     "_tri_available": "all"
