@@ -1,20 +1,33 @@
 {
   "input": {
-    "div_attrs": {"class": "contact_div"},
-    "input_attrs": {"class": "input_ui"},
-    "select_attrs": {"class": "div_select"}
+    "attrs": {
+      "div_attrs": {"class": "contact_div"},
+      "input_attrs": {"class": "input_ui"},
+      "select_attrs": {"class": "div_select"},
+      "option_attrs": {"class": "input_ui select_option"}
+    }
+
   },
 
-  "button_list": {
-    "nav_attrs": {"class": "form_nav"}
+  "_btn_list": {
+    "attrs": {
+      "nav_attrs": {"class": "form_nav"}
+    }
+
   },
 
   "insert_form": {
-    "form_attrs": {"class": "contact_form"},
-    "submit_attrs": {"class": "form_submit"}
+    "attrs": {
+      "form_attrs": {"class": "contact_form"},
+      "submit_attrs": {"class": "form_submit"}
+    }
+
   },
 
   "_btn": {
-    "_btn_attrs": {"class": "_get"}
+    "attrs": {
+      "_btn_attrs": {"class": "_get"}
+    }
+
   }
 }

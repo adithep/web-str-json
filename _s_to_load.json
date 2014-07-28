@@ -1,6 +1,4 @@
 {
-  "_s": ["main"],
-  "keys": ["main"],
   "paths": ["main"],
   "_spa": ["main"],
   "img": ["main"],
@@ -8,5 +6,4 @@
   "humans": ["core_team"],
   "companies": ["new_company"],
   "_tri": ["_tri", "_tri_input", "_tri_btn", "_tri_banners", "_tri_media", "_tri_s_docs"]
-
 }
