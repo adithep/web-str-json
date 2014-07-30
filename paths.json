@@ -1,7 +1,7 @@
 [
   {
     "path_n": "blank",
-    "path_spa": [
+    "path_spa_arr": [
       "main_nav",
       "main_intro",
       "sub_path",
@@ -12,7 +12,7 @@
   {
     "path_n": "home",
     "path_dis": "Home",
-    "path_spa": [
+    "path_spa_arr": [
       "reels",
       "humans_input_spa",
       "sub_path"
@@ -22,7 +22,7 @@
   {
     "path_n": "about",
     "path_dis": "About",
-    "path_spa": [
+    "path_spa_arr": [
       "our_team",
       "our_approach",
       "sub_path"
@@ -32,7 +32,7 @@
   {
     "path_n": "experiences",
     "path_dis": "Experiences",
-    "path_spa": [
+    "path_spa_arr": [
       "img_gr_btn_gr",
       "sub_path"
     ]
@@ -41,7 +41,7 @@
   {
     "path_n": "img_behind_the_scene",
     "path_dis": "Behind the Scenes",
-    "path_spa": [
+    "path_spa_arr": [
       "img_gr_ty_behind_the_scene",
       "sub_path"
     ]
@@ -50,7 +50,7 @@
   {
     "path_n": "img_location",
     "path_dis": "Locations",
-    "path_spa": [
+    "path_spa_arr": [
       "img_location_gr_btn_gr",
       "sub_path"
     ]
@@ -59,7 +59,7 @@
   {
     "path_n": "img_location_condo",
     "path_dis": "Condo",
-    "path_spa": [
+    "path_spa_arr": [
       "img_gr_location_ty_condo",
       "sub_path"
     ]
@@ -68,7 +68,7 @@
   {
     "path_n": "img_location_restaruant",
     "path_dis": "Condo",
-    "path_spa": [
+    "path_spa_arr": [
       "img_gr_location_ty_restaruant",
       "sub_path"
     ]
@@ -77,7 +77,7 @@
   {
     "path_n": "img_location_office",
     "path_dis": "Condo",
-    "path_spa": [
+    "path_spa_arr": [
       "img_gr_location_ty_office",
       "sub_path"
     ]
@@ -86,7 +86,7 @@
   {
     "path_n": "img_location_mall",
     "path_dis": "Condo",
-    "path_spa": [
+    "path_spa_arr": [
       "img_gr_location_ty_mall",
       "sub_path"
     ]
@@ -95,7 +95,7 @@
   {
     "path_n": "contact",
     "path_dis": "Contact",
-    "path_spa": [
+    "path_spa_arr": [
       "contact_us",
       "sub_path"
     ]
